@@ -1,0 +1,83 @@
+body{
+    background:url("../img/izquierdo.PNG");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#SolicitudForm_celular {
+    font-size: 13px;
+	width: 100%;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    padding: 8px 11px;
+    font-size: 14px;
+}
+
+select {
+    display: block;
+    width: 100%;
+    height: 40px !important;
+    padding: 8px 15px;
+    font-size: 14px;
+    line-height: 1.57142857;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 5px !important;
+    color: #999 !important;
+}
+
+#titulo{
+    font-family: CIBFontSans-Bold;
+
+     color: #292929;
+  }
+
+.submenu ul li a {
+    color: #000;
+    background-image: none;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    }
+.shortcut h2 {
+    font-family: OpenSans-Bold;
+    border-top: 1px solid black;
+    border-bottom: 0;
+    padding: 35px 0 25px 0;
+    margin-bottom: 0;
+    color:black;
+    }
+
+::placeholder { font-size: 12px; }
+
+#consultaTrasb{
+    background: #FDDA24;
+    border-color: #FDDA24;
+    font-family: CIBFontSans-Bold;
+    border-radius: 20px;
+    margin-top: 0;
+    color: #292929;
+    text-transform: inherit;
+    padding: 8px 17px 5px 30px;
+    margin-left: 15px;
+    width: auto;
+}
+
+#regUser{
+    font: 600 16px 'Open Sans';
+    display: inline-block;
+    background: #fdda24;
+    color: #2c2a29;
+    padding: 8px 14px;
+    line-height: 24px;
+    box-sizing: content-box;
+    border-radius: 100px;
+    box-shadow: 0 1px 8px rgb(0 0 0 / 10%);
+    text-align: center;
+    }
